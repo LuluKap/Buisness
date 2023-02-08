@@ -4,7 +4,22 @@
     box-sizing: border-box;
 }
 
-.hero {
+.hero .footer {
     background-color: #1F2937;
 }
 
+h2 {
+    font: 48px bold #F9FAF8
+}
+
+p {
+    font: 18px #E5E7EB
+}
+
+a {
+    font: 24px #F9FAF8;
+}
+
+button {
+    color: #3882F6;
+}
